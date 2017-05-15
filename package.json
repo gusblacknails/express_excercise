@@ -1,0 +1,17 @@
+{
+  "name": "express-dynamin-content",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "pug": "^2.0.0-rc.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
